@@ -3,7 +3,7 @@ const proxyConfig = {
   pacScript: {
     data: `
       function FindProxyForURL(url, host) {
-        const proxy = 'PROXY 104.248.16.121:3128';
+        const proxy = 'PROXY 178.128.174.224:3128';
         const direct = 'DIRECT';
         const proxyHosts = [
           'bbc.co.uk/iplayer',
