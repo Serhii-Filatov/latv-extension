@@ -9,6 +9,7 @@
   },
 
   "permissions": [
+    "proxy",
     "tabs"
   ],
   
